@@ -1,0 +1,1019 @@
+{
+  "updatedAt": "2026-11-03T06:53:56.042Z",
+  "addedMap": {},
+  "deletedIds": [],
+  "customCategories": [
+    {
+      "name": "批發商",
+      "icon": "🏷️"
+    },
+    {
+      "name": "髮廊",
+      "icon": "🏷️"
+    },
+    {
+      "name": "服務業",
+      "icon": "🏷️"
+    },
+    {
+      "name": "醫療照護",
+      "icon": "🏷️"
+    },
+    {
+      "name": "藝術工作室",
+      "icon": "🏷️"
+    },
+    {
+      "name": "早午餐餐廳",
+      "icon": "☕"
+    },
+    {
+      "name": "秘魯餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "美容護膚中心",
+      "icon": "🏷️"
+    },
+    {
+      "name": "美容院",
+      "icon": "🏷️"
+    },
+    {
+      "name": "素食餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "運動俱樂部",
+      "icon": "🏷️"
+    },
+    {
+      "name": "甜點專賣店",
+      "icon": "☕"
+    },
+    {
+      "name": "食品專賣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "商店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "按摩水療",
+      "icon": "🏷️"
+    },
+    {
+      "name": "烘焙屋",
+      "icon": "🏷️"
+    },
+    {
+      "name": "美食廣場",
+      "icon": "🏷️"
+    },
+    {
+      "name": "美容師",
+      "icon": "🏷️"
+    },
+    {
+      "name": "小吃店",
+      "icon": "🍜"
+    },
+    {
+      "name": "早餐店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "酒吧",
+      "icon": "🏷️"
+    },
+    {
+      "name": "按摩",
+      "icon": "🏷️"
+    },
+    {
+      "name": "服飾店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "茶餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "咖啡館",
+      "icon": "☕"
+    },
+    {
+      "name": "外賣餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "牛排館",
+      "icon": "🍝"
+    },
+    {
+      "name": "火鍋店",
+      "icon": "🍲"
+    },
+    {
+      "name": "日式燒肉餐廳",
+      "icon": "🥩"
+    },
+    {
+      "name": "義大利餐廳",
+      "icon": "🍝"
+    },
+    {
+      "name": "中式麵館",
+      "icon": "🥢"
+    },
+    {
+      "name": "日式炸豬排餐廳",
+      "icon": "🍣"
+    },
+    {
+      "name": "漢堡餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "顧問",
+      "icon": "🏷️"
+    },
+    {
+      "name": "茶藝館",
+      "icon": "🏷️"
+    },
+    {
+      "name": "日式串燒餐廳",
+      "icon": "🥩"
+    },
+    {
+      "name": "餐酒館",
+      "icon": "🍝"
+    },
+    {
+      "name": "point_of_interest, establishment",
+      "icon": "🏷️"
+    },
+    {
+      "name": "居酒屋",
+      "icon": "🥩"
+    },
+    {
+      "name": "咖啡廳",
+      "icon": "☕"
+    },
+    {
+      "name": "印度餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "日式餐廳",
+      "icon": "🍣"
+    },
+    {
+      "name": "高級餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "外帶咖啡專賣店",
+      "icon": "☕"
+    },
+    {
+      "name": "烤肉串店",
+      "icon": "🥩"
+    },
+    {
+      "name": "肉舖",
+      "icon": "🏷️"
+    },
+    {
+      "name": "泰國餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "北印度餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "生蠔餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "壽司店",
+      "icon": "🍣"
+    },
+    {
+      "name": "中式餐廳",
+      "icon": "🥢"
+    },
+    {
+      "name": "台式餐廳",
+      "icon": "🥢"
+    },
+    {
+      "name": "麵店",
+      "icon": "🍜"
+    },
+    {
+      "name": "披薩餐廳",
+      "icon": "🍝"
+    },
+    {
+      "name": "日式咖哩餐廳",
+      "icon": "🍣"
+    },
+    {
+      "name": "墨西哥捲餅餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "越南餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "restaurant, food, point_of_interest",
+      "icon": "🏷️"
+    },
+    {
+      "name": "蛋糕專賣店",
+      "icon": "☕"
+    },
+    {
+      "name": "家具行",
+      "icon": "🏷️"
+    },
+    {
+      "name": "西餐廳",
+      "icon": "🍝"
+    },
+    {
+      "name": "海鮮餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "墨西哥餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "韓式燒烤料理餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "亞洲各國料理餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "拉麵店",
+      "icon": "🍣"
+    },
+    {
+      "name": "速食餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "燒烤餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "燒烤料理餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "各國料理餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "市場",
+      "icon": "🏷️"
+    },
+    {
+      "name": "韓國餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "美國西南部風味餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "美式餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "歐風餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "咖啡烘焙廠",
+      "icon": "☕"
+    },
+    {
+      "name": "雜貨店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "觀光景點",
+      "icon": "🏷️"
+    },
+    {
+      "name": "果汁專賣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "冰淇淋店",
+      "icon": "☕"
+    },
+    {
+      "name": "甜品餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "熱狗專賣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "百貨公司",
+      "icon": "🏷️"
+    },
+    {
+      "name": "水餃店",
+      "icon": "🍜"
+    },
+    {
+      "name": "法國餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "漁人碼頭",
+      "icon": "🏷️"
+    },
+    {
+      "name": "自助餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "量販超市",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tourist_attraction, cafe, restaurant",
+      "icon": "🏷️"
+    },
+    {
+      "name": "大型購物中心",
+      "icon": "🏷️"
+    },
+    {
+      "name": "披薩外送",
+      "icon": "🍝"
+    },
+    {
+      "name": "廣東菜餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "停車場",
+      "icon": "🏷️"
+    },
+    {
+      "name": "雞肉料理餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "亞洲風味餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "民宿",
+      "icon": "🏷️"
+    },
+    {
+      "name": "旅行社",
+      "icon": "🏷️"
+    },
+    {
+      "name": "家庭餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tea_store, food_store, food",
+      "icon": "🏷️"
+    },
+    {
+      "name": "菲律賓餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "雞尾酒酒吧",
+      "icon": "🏷️"
+    },
+    {
+      "name": "超級市場",
+      "icon": "🏷️"
+    },
+    {
+      "name": "炸魚薯條餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "烤肉區",
+      "icon": "🥩"
+    },
+    {
+      "name": "禮品店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "外燴服務",
+      "icon": "🏷️"
+    },
+    {
+      "name": "Spa",
+      "icon": "🏷️"
+    },
+    {
+      "name": "整脊師",
+      "icon": "🏷️"
+    },
+    {
+      "name": "墨西哥夾餅餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "餐點外送服務",
+      "icon": "🏷️"
+    },
+    {
+      "name": "food_store, food, store",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tea_house, point_of_interest, establishment",
+      "icon": "🏷️"
+    },
+    {
+      "name": "學校",
+      "icon": "🏷️"
+    },
+    {
+      "name": "禮拜場所",
+      "icon": "🏷️"
+    },
+    {
+      "name": "青年旅舍",
+      "icon": "🏷️"
+    },
+    {
+      "name": "住宿",
+      "icon": "🏷️"
+    },
+    {
+      "name": "糕點店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "甜甜圈專賣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "茶行",
+      "icon": "🏷️"
+    },
+    {
+      "name": "理髮店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "wholesaler, food, point_of_interest",
+      "icon": "🏷️"
+    },
+    {
+      "name": "景點",
+      "icon": "🏷️"
+    },
+    {
+      "name": "巧克力專賣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "美式墨西哥料理餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "綜合運動中心",
+      "icon": "🏷️"
+    },
+    {
+      "name": "橋梁",
+      "icon": "🏷️"
+    },
+    {
+      "name": "便利商店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "汽車旅館",
+      "icon": "🏷️"
+    },
+    {
+      "name": "糖果糕餅店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "食品",
+      "icon": "🏷️"
+    },
+    {
+      "name": "公園",
+      "icon": "🏷️"
+    },
+    {
+      "name": "渡輪服務",
+      "icon": "🏷️"
+    },
+    {
+      "name": "飯店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "酒類專賣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "指甲沙龍",
+      "icon": "🏷️"
+    },
+    {
+      "name": "coffee_stand, juice_shop, tea_house",
+      "icon": "🏷️"
+    },
+    {
+      "name": "亞洲雜貨用品店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "美式餐車店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "製造商",
+      "icon": "🏷️"
+    },
+    {
+      "name": "農場",
+      "icon": "🏷️"
+    },
+    {
+      "name": "興趣點",
+      "icon": "🏷️"
+    },
+    {
+      "name": "住宿加早餐型民宿",
+      "icon": "🏷️"
+    },
+    {
+      "name": "vegetarian_restaurant, pastry_shop, cake_shop",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tea_house, meal_delivery, food_delivery",
+      "icon": "🏷️"
+    },
+    {
+      "name": "公車站",
+      "icon": "🏷️"
+    },
+    {
+      "name": "書店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "露營地點",
+      "icon": "🏷️"
+    },
+    {
+      "name": "博物館",
+      "icon": "🏷️"
+    },
+    {
+      "name": "宴會廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "協會或機構",
+      "icon": "🏷️"
+    },
+    {
+      "name": "湯品餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "健行區",
+      "icon": "🏷️"
+    },
+    {
+      "name": "轉運站",
+      "icon": "🏷️"
+    },
+    {
+      "name": "火車站",
+      "icon": "🏷️"
+    },
+    {
+      "name": "大型超級市場",
+      "icon": "🏷️"
+    },
+    {
+      "name": "釣魚池",
+      "icon": "🏷️"
+    },
+    {
+      "name": "遊戲機台遊樂場",
+      "icon": "🥢"
+    },
+    {
+      "name": "tailor, point_of_interest, service",
+      "icon": "🏷️"
+    },
+    {
+      "name": "阿根廷餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tourist_attraction, market, point_of_interest",
+      "icon": "🏷️"
+    },
+    {
+      "name": "夏威夷餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "娛樂中心",
+      "icon": "🏷️"
+    },
+    {
+      "name": "總部辦公室",
+      "icon": "🏷️"
+    },
+    {
+      "name": "沙拉專賣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "廣場",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tea_store, food_store, manufacturer",
+      "icon": "🏷️"
+    },
+    {
+      "name": "地中海餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "馬來西亞餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "花店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "貝果專賣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "restaurant, point_of_interest, food",
+      "icon": "🏷️"
+    },
+    {
+      "name": "pet_store, store, point_of_interest",
+      "icon": "🏷️"
+    },
+    {
+      "name": "藏式餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "緬甸餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "三明治專賣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "葡萄酒館",
+      "icon": "🏷️"
+    },
+    {
+      "name": "婚宴場地",
+      "icon": "🏷️"
+    },
+    {
+      "name": "供應商",
+      "icon": "🏷️"
+    },
+    {
+      "name": "catering_service, thai_restaurant, meal_takeaway",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tea_house, restaurant, point_of_interest",
+      "icon": "🏷️"
+    },
+    {
+      "name": "cafe, event_venue, food_store",
+      "icon": "🏷️"
+    },
+    {
+      "name": "food_store, store, point_of_interest",
+      "icon": "🏷️"
+    },
+    {
+      "name": "cafe, dessert_shop, confectionery",
+      "icon": "🏷️"
+    },
+    {
+      "name": "清真餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "酒廠酒吧",
+      "icon": "🏷️"
+    },
+    {
+      "name": "健康食品專賣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "歷史景點",
+      "icon": "🏷️"
+    },
+    {
+      "name": "室內遊樂場",
+      "icon": "🏷️"
+    },
+    {
+      "name": "圖書館",
+      "icon": "🏷️"
+    },
+    {
+      "name": "農夫市集",
+      "icon": "🏷️"
+    },
+    {
+      "name": "度假酒店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "農場住宿",
+      "icon": "🏷️"
+    },
+    {
+      "name": "花園",
+      "icon": "🏷️"
+    },
+    {
+      "name": "政府機關",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tea_house, farm, service",
+      "icon": "🏷️"
+    },
+    {
+      "name": "客棧",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tourist_attraction, point_of_interest, establishment",
+      "icon": "🏷️"
+    },
+    {
+      "name": "國家公園",
+      "icon": "🏷️"
+    },
+    {
+      "name": "遊客中心",
+      "icon": "🏷️"
+    },
+    {
+      "name": "觀景台",
+      "icon": "🥢"
+    },
+    {
+      "name": "遊客服務中心",
+      "icon": "🏷️"
+    },
+    {
+      "name": "休息站",
+      "icon": "🏷️"
+    },
+    {
+      "name": "雕塑",
+      "icon": "🏷️"
+    },
+    {
+      "name": "社區中心",
+      "icon": "🏷️"
+    },
+    {
+      "name": "文化地標",
+      "icon": "🏷️"
+    },
+    {
+      "name": "運動場所",
+      "icon": "🏷️"
+    },
+    {
+      "name": "administrative_area_level_2, political",
+      "icon": "🏷️"
+    },
+    {
+      "name": "酒廠",
+      "icon": "🏷️"
+    },
+    {
+      "name": "加油站",
+      "icon": "🏷️"
+    },
+    {
+      "name": "啤酒釀製廠",
+      "icon": "🏷️"
+    },
+    {
+      "name": "摩洛哥餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "德國餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "教會",
+      "icon": "🏷️"
+    },
+    {
+      "name": "英式高級酒吧",
+      "icon": "🏷️"
+    },
+    {
+      "name": "印尼餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "共同工作空間",
+      "icon": "🏷️"
+    },
+    {
+      "name": "遊樂園",
+      "icon": "🏷️"
+    },
+    {
+      "name": "診所",
+      "icon": "🏷️"
+    },
+    {
+      "name": "gym, spa, sports_activity_location",
+      "icon": "🏷️"
+    },
+    {
+      "name": "健康中心",
+      "icon": "🏷️"
+    },
+    {
+      "name": "coffee_stand, point_of_interest, establishment",
+      "icon": "🏷️"
+    },
+    {
+      "name": "dessert_shop, confectionery, food_store",
+      "icon": "🏷️"
+    },
+    {
+      "name": "寵物店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "建築物",
+      "icon": "🏷️"
+    },
+    {
+      "name": "居家用品店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "跑道",
+      "icon": "🏷️"
+    },
+    {
+      "name": "葡萄園",
+      "icon": "🏷️"
+    },
+    {
+      "name": "地方政府機構",
+      "icon": "🏷️"
+    },
+    {
+      "name": "department_store, wholesaler, store",
+      "icon": "🏷️"
+    },
+    {
+      "name": "貓咪咖啡廳",
+      "icon": "☕"
+    },
+    {
+      "name": "探險運動中心",
+      "icon": "🏷️"
+    },
+    {
+      "name": "meal_delivery, food_delivery, food_store",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tourist_attraction, farm, wholesaler",
+      "icon": "🏷️"
+    },
+    {
+      "name": "chinese_restaurant, restaurant, food",
+      "icon": "🏷️"
+    },
+    {
+      "name": "狗兒咖啡館",
+      "icon": "☕"
+    },
+    {
+      "name": "dessert_restaurant, event_venue, service",
+      "icon": "🏷️"
+    },
+    {
+      "name": "food_store, dessert_restaurant, store",
+      "icon": "🏷️"
+    },
+    {
+      "name": "希臘餐廳",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tea_store, food_store, store",
+      "icon": "🏷️"
+    },
+    {
+      "name": "女裝店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "cafe, asian_grocery_store, grocery_store",
+      "icon": "🏷️"
+    },
+    {
+      "name": "居家裝潢器材店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "tourist_attraction, historical_place, point_of_interest",
+      "icon": "🏷️"
+    },
+    {
+      "name": "神社",
+      "icon": "🏷️"
+    },
+    {
+      "name": "水族館",
+      "icon": "🏷️"
+    },
+    {
+      "name": "玩具店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "洗衣店",
+      "icon": "🏷️"
+    },
+    {
+      "name": "service, point_of_interest, establishment",
+      "icon": "🏷️"
+    },
+    {
+      "name": "pizza_restaurant, restaurant, food",
+      "icon": "🏷️"
+    },
+    {
+      "name": "野餐區",
+      "icon": "🏷️"
+    },
+    {
+      "name": "鎖匠",
+      "icon": "🏷️"
+    },
+    {
+      "name": "活動場地",
+      "icon": "🏷️"
+    },
+    {
+      "name": "單車場",
+      "icon": "🏷️"
+    }
+  ]
+}
